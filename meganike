@@ -1,0 +1,7 @@
+name: 追加ルール
+desc: メガニケ公式サイトとiwaraのルール
+
+rules:
+  - DOMAIN-KEYWORD,nikke-jp,Proxies
+  - DOMAIN-KEYWORD,iwara,Proxies
+  - DOMAIN-KEYWORD,nikke,Proxies
